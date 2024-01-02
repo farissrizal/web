@@ -1,0 +1,16 @@
+a:link
+    {
+    color: none;
+    background-color: none;
+    text-decoration: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+
+    }
+
+    body
+    {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
